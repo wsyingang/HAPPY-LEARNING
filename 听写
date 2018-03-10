@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>欢迎来到默写中心</title>
+		<link rel="stylesheet" href="css/write.css" />
+	</head>
+	<body>
+		<div id="head">
+			<h1>欢迎来到默写中心！</h1>
+		</div>
+		<div id="center">
+		<ol class="group1">
+			<li class="group1Li">使意识到：<input type="text" id="q1"></li>
+			<li class="group1Li">使惊骇:<input type="text" id="q2"></li>
+			<li class="group1Li">Y异乎寻常的：<input type="text" id="q3"></li>
+			<li class="group1Li">空的：<input type="text" id="q4"></li>
+			<li class="group1Li">刺耳的：<input type="text" id="q5"></li>
+			<li class="group2Li">指南针：<input type="text" id="q6"></in></li>
+			<li class="group2Li">领队;<input type="text" id="q7"></in></li>
+			<li class="group2Li">覆盖范围：<input type="text" id="q8"></in></li>
+			<li class="group2Li">删除：<input type="text" id="q9"></in></li>
+			<li class="group2Li">强行实施：<input type="text" id="q10"></in></li>	
+			<li class="group3Li">轻举妄动：<input type="text" id="q11"></li>
+			<li class="group3Li">应对：<input type="text" id="q12"></li>
+			<li class="group3Li">预报:<input type="text" id="q13"></li>
+			<li class="group3Li">原来：<input type="text" id="q14"></li>
+			<li class="group3Li">十分舒适的：<input type="text" id="q15"></li>
+			<li class="group4Li">徒步旅行：<input type="text" id="q16"></li>
+			<li class="group4Li">无能，无力：<input type="text" id="q17"></li>
+			<li class="group4Li">非必需的，无关紧要的：<input type="text" id="q18"></li>
+			<li class="group4Li">故意的，存心的。<input type="text" id="q19"></li>
+			<li class="group4Li">偏远村镇：<input type="text" id="q20"></li>
+			<div id="submait">
+				<input type="submit" name="btn" id="btn" value="提交" />
+			</div>
+			</ol>
+			<a href="index.html">返回首页</a>
+			<ol class="group2">
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+			<li><input></li>
+		</ol>
+		
+		</div>
+		<div id="footer">
+			<h2> /* directed by yingang*/</h2>
+		</div>
+	</body>
+	<script>
+		var num=0;
+		var q1=document.getElementById('q1').value;
+		if(q1=="alert"){
+			num++;
+			
+		}
+		var q2=document.getElementById('q2').value;
+		if(q2=="appall"){
+			num++;
+			
+		}
+		var q3=document.getElementById('q3').value;
+		if(q3=="bizarre"){
+			num++;			
+		}
+		var q4=document.getElementById('q4').value;
+		if(q4=="blank"){
+			num++;			
+		}
+		var q5=document.getElementById('q5').value;
+		if(q5=="cacophony"){
+			num++;			
+		}
+		var q6=document.getElementById('q6').value;
+		if(q6=="compass"){
+			num++;			
+		}
+		var q7=document.getElementById('q7').value;
+		if(q7=="counselor"){
+			num++;			
+		}
+		var q8=document.getElementById('q8').value;
+		if(q8=="coverage"){
+			num++;			
+		}
+		var q9=document.getElementById('q9').value;
+		if(q9=="delete"){
+			num++;			
+		}
+		var q10=document.getElementById('q10').value;
+		if(q10=="enforce"){
+			num++;			
+		}
+		var q11=document.getElementById('q11').value;
+		if(q11=="escapade"){
+			num++;			
+		}
+		var q12=document.getElementById('q12').value;
+		if(q12=="field"){
+			num++;			
+		}
+		var q13=document.getElementById('q13').value;
+		if(q13=="forecast"){
+			num++;			
+		}
+		var q14=document.getElementById('q14').value;
+		if(q14=="formerly"){
+			num++;			
+		}
+		var q15=document.getElementById('q15').value;
+		if(q15=="heavenly"){
+			num++;
+		}
+		var q16=document.getElementById('q16').value;
+		if(q16=="hike"){
+			num++;
+		}
+		var q17=document.getElementById('q17').value;
+		if(q17=="inability"){
+			num++;
+			
+		}
+		var q18=document.getElementById('q18').value;
+		if(q18=="inessential"){
+			num++;
+			
+		}
+		var q19=document.getElementById('q19').value;
+		if(q19=="intentional"){
+			num++;								
+		}
+		var q20=document.getElementById('q20').value;
+		if(q20=="outpost"){
+			num++;							
+		}
+		var btn=document.getElementById('btn');
+			btn.onclick=function(){
+			alert("确认提交？")
+			alert("点击确认查看正确个数");
+			alert(num)
+			}
+		
+	</script>
+</html>
