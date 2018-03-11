@@ -2,7 +2,6 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<meta http-equiv="refresh" content="30">
 		<title>欢迎来到默写中心</title>
 		<link rel="stylesheet" href="css/write.css" />
 		<style> 
@@ -96,6 +95,7 @@ a:visited{
 			<li class="group4Li">故意的，存心的。<input type="text" id="q19"></li>
 			<li class="group4Li">偏远村镇：<input type="text" id="q20"></li>
 			<div id="submait">
+				<input type="button" value="刷新" id="sx"/>
 				<input type="submit" name="btn" id="btn" value="提交" />
 			</div>
 			</ol>
@@ -145,6 +145,10 @@ a:visited{
 			<h2> /* directed by yingang*/</h2>
 		</div>
 		<script>
+			var sx=document.getElementById('sx')
+		sx.onclick=function(){
+			 window.location.replace("writing.html")
+		}
 		var num=0;
 		var q1=document.getElementById('q1').value;
 		if(q1=="alert"){
