@@ -67,22 +67,22 @@ a:hover {
 }
 /* Section external links */
 #the-gardens a.external {
-	background: url(../img/external_g.gif) right bottom no-repeat
+	background: url(external_g.gif) right bottom no-repeat
 }
 #whats-on a.external {
-	background: url(../img/external_o.gif) right bottom no-repeat
+	background: url(external_o.gif) right bottom no-repeat
 }
 #about-us a.external {
-	background: url(../img/external_g2.gif) right bottom no-repeat
+	background: url(external_g2.gif) right bottom no-repeat
 }
 #support-us a.external {
-	background: url(../img/external_b.gif) right bottom no-repeat
+	background: url(external_b.gif) right bottom no-repeat
 }
 #education a.external {
-	background: url(../img/external_p.gif) right bottom no-repeat
+	background: url(external_p.gif) right bottom no-repeat
 }
 #science a.external {
-	background: url(../img/external.gif) right bottom no-repeat
+	background: url(external.gif) right bottom no-repeat
 }
 #global-nav a {
 	color:#fff;
@@ -184,17 +184,17 @@ a:hover {
 	position:relative
 }
 #home #news-events h2#what-o {
-	background:url(../img/whatson-h.gif) left center no-repeat;
+	background:url(whatson-h.gif) left center no-repeat;
 }
 #home #news-events h2#l-news {
-	background:url(../img/news-h.gif) left center no-repeat;
+	background:url(news-h.gif) left center no-repeat;
 	border-top:1px solid #fff;
 	position:relative
 }
 #home #main-panels h3#oldnews-h {
 	border-top:1px solid #fff;
 	font-size:12px;
-	background:url(../img/morenews-h.jpg) left top no-repeat;
+	background:url(morenews-h.jpg) left top no-repeat;
 	color:#fff;
 	clear:both;
 }
@@ -233,22 +233,22 @@ a:hover {
 }
 /*Section sub content heading backgrounds */
 #the-gardens .cont-box h3 {
-	background:url(../img/gardenspanel_tl.gif) left top no-repeat;
+	background:url(gardenspanel_tl.gif) left top no-repeat;
 }
 #about-us .cont-box h3 {
-	background:url(../img/aboutpanel_tl.gif) left top no-repeat;
+	background:url(aboutpanel_tl.gif) left top no-repeat;
 }
 #whatson .cont-box h3 {
-	background:url(../img/whatsonpanel_tl.gif) left top no-repeat;
+	background:url(whatsonpanel_tl.gif) left top no-repeat;
 }
 #support-us .cont-box h3 {
-	background:url(../img/supportpanel_tl.gif) left top no-repeat;
+	background:url(supportpanel_tl.gif) left top no-repeat;
 }
 #education .cont-box h3 {
-	background:url(../img/educationpanel_tl.gif) left top no-repeat;
+	background:url(educationpanel_tl.gif) left top no-repeat;
 }
 #science .cont-box h3 {
-	background:url(../img/sciencepanel_tl.gif) left top no-repeat;
+	background:url(sciencepanel_tl.gif) left top no-repeat;
 }
 /* Section Landing Pages */
 #main-content #intropanel h2 {
@@ -315,33 +315,33 @@ a:hover {
 	color:#fff;
 }
 #main #sub-nav li.backlink1 a {
-	background-image:url(../img/back.gif);
+	background-image:url(back.gif);
 	background-position:5px 8px;
 	background-repeat:no-repeat;
 }
 #main #sub-nav li.backlink2 a {
-	background-image:url(../img/back2.gif);
+	background-image:url(back2.gif);
 	background-position:5px 8px;
 	background-repeat:no-repeat;
 	padding-left:20px;
 	width:150px
 }
 #main #sub-nav li.backlink3 a {
-	background-image:url(../img/back3.gif);
+	background-image:url(back3.gif);
 	background-position:5px 8px;
 	background-repeat:no-repeat;
 	padding-left:25px;
 	width:145px
 }
 #main #sub-nav li.backlink4 a {
-	background-image:url(../img/back4.gif);
+	background-image:url(back4.gif);
 	background-position:5px 8px;
 	background-repeat:no-repeat;
 	padding-left:30px;
 	width:140px
 }
 #main #sub-nav li.backlink5 a {
-	background-image:url(../img/back5.gif);
+	background-image:url(back5.gif);
 	background-position:5px 8px;
 	background-repeat:no-repeat;
 	padding-left:35px;
@@ -415,7 +415,7 @@ a:hover {
 	display:block;
 	padding:3px 5px 3px 23px;
 	background-color:#eee;
-	background-image:url(../img/deepnav_blt.gif);
+	background-image:url(deepnav_blt.gif);
 	background-position:7px center;
 	background-repeat: no-repeat;
 }
@@ -521,27 +521,27 @@ a:hover {
 }
 /* Section highlight panels*/
 #support-us #main-content .highlight {
-	background:#B1DAF6 url(../img/supportpanel_tl.gif) left top no-repeat;
+	background:#B1DAF6 url(supportpanel_tl.gif) left top no-repeat;
 	color:#005991;
 }
 #about-us #main-content .highlight {
-	background:#D4E2CA url(../img/aboutpanel_tl.gif) left top no-repeat;
+	background:#D4E2CA url(aboutpanel_tl.gif) left top no-repeat;
 	color:#476532;
 }
 #whats-on #main-content .highlight {
-	background:#E9B788 url(../img/whatsonpanel_tl.gif) left top no-repeat;
+	background:#E9B788 url(whatsonpanel_tl.gif) left top no-repeat;
 	color:#D36805;
 }
 #science #main-content .highlight {
-	background:#EBC2BE url(../img/sciencepanel_tl.gif) left top no-repeat;
+	background:#EBC2BE url(sciencepanel_tl.gif) left top no-repeat;
 	color:#BA2727;
 }
 #education #main-content .highlight {
-	background:#E7BBEE url(../img/educationpanel_tl.gif) left top no-repeat;
+	background:#E7BBEE url(educationpanel_tl.gif) left top no-repeat;
 	color:#9F48A3;
 }
 #the-gardens #main-content .highlight {
-	background:#DCE5AA url(../img/gardenspanel_tl.gif) left top no-repeat;
+	background:#DCE5AA url(gardenspanel_tl.gif) left top no-repeat;
 	color:#557815;
 }
 /* News */
