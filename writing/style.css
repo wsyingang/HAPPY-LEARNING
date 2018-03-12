@@ -38,7 +38,7 @@ a img {
 }
 #global-nav a {
 	padding:6px 13px 3px 13px;
-	background:url(../img/glob_sep.gif) right bottom no-repeat;
+	background:url(glob_sep.gif) right bottom no-repeat;
 }
 #global-nav li.last a {
 	background:0;
@@ -56,7 +56,7 @@ a img {
 #global-nav button {
 	width:52px;
 	height:18px;
-	background:url(../img/search.gif) center center no-repeat;
+	background:url(search.gif) center center no-repeat;
 	border:0;
 	cursor:pointer;
 	font-size:10px;
@@ -68,74 +68,74 @@ a img {
 /*============================ BANNERS =========================*/
 
 #home #header {
-	background:#EBF0D1 url(../img/home_banner.jpg) left center no-repeat
+	background:#EBF0D1 url(home_banner.jpg) left center no-repeat
 }
 #the-gardens #header {
-	background:#EBF0D1 url(../img/gardens_banner.jpg) left center no-repeat
+	background:#EBF0D1 url(gardens_banner.jpg) left center no-repeat
 }
 #the-gardens.edinburgh #header {
-	background:#EBF0D1 url(../img/edinburgh_banner.jpg) left center no-repeat
+	background:#EBF0D1 url(edinburgh_banner.jpg) left center no-repeat
 }
 #the-gardens.inverleith #header {
-	background:#EBF0D1 url(../img/inverleith_banner.jpg) left center no-repeat
+	background:#EBF0D1 url(inverleith_banner.jpg) left center no-repeat
 }
 #the-gardens.benmore #header {
-	background:#EBF0D1 url(../img/benmore_banner.jpg) left center no-repeat
+	background:#EBF0D1 url(benmore_banner.jpg) left center no-repeat
 }
 #the-gardens.logan #header {
-	background:#EBF0D1 url(../img/logan_banner.jpg) left center no-repeat
+	background:#EBF0D1 url(logan_banner.jpg) left center no-repeat
 }
 #the-gardens.dawyck #header {
-	background:#EBF0D1 url(../img/dawyck_banner.jpg) left center no-repeat
+	background:#EBF0D1 url(dawyck_banner.jpg) left center no-repeat
 }
 #support-us #header {
-	background:#DDEFFA url(../img/support_banner.jpg) left center no-repeat
+	background:#DDEFFA url(support_banner.jpg) left center no-repeat
 }
 #science #header {
-	background:#F9EFEF url(../img/science_banner.jpg) left center no-repeat
+	background:#F9EFEF url(science_banner.jpg) left center no-repeat
 }
 #education #header {
-	background:#F5EDF6 url(../img/education_banner.jpg) left center no-repeat
+	background:#F5EDF6 url(education_banner.jpg) left center no-repeat
 }
 #about-us #header {
-	background:#E6EDE1 url(../img/about_banner.jpg) left center no-repeat
+	background:#E6EDE1 url(about_banner.jpg) left center no-repeat
 }
 #whats-on #header {
-	background:#EED5BD url(../img/whatson_banner.jpg) left center no-repeat
+	background:#EED5BD url(whatson_banner.jpg) left center no-repeat
 }
 /* Section bottom banner images */
 #the-gardens #main {
-	background:url(../img/gardens_bottom.jpg) left top no-repeat
+	background:url(gardens_bottom.jpg) left top no-repeat
 }
 #the-gardens.edinburgh #main {
-	background:url(../img/edinburgh_bottom.jpg) left top no-repeat
+	background:url(edinburgh_bottom.jpg) left top no-repeat
 }
 #the-gardens.inverleith #main {
-	background:url(../img/inverleith_bottom.jpg) left top no-repeat
+	background:url(inverleith_bottom.jpg) left top no-repeat
 }
 #the-gardens.benmore #main {
-	background:url(../img/benmore_bottom.jpg) left top no-repeat
+	background:url(benmore_bottom.jpg) left top no-repeat
 }
 #the-gardens.logan #main {
-	background:url(../img/logan_bottom.jpg) left top no-repeat
+	background:url(logan_bottom.jpg) left top no-repeat
 }
 #the-gardens.dawyck #main {
-	background:url(../img/dawyck_bottom.jpg) left top no-repeat
+	background:url(dawyck_bottom.jpg) left top no-repeat
 }
 #support-us #main {
-	background:url(../img/support_bottom.jpg) left top no-repeat
+	background:url(support_bottom.jpg) left top no-repeat
 }
 #science #main {
-	background:url(../img/science_bottom.jpg) left top no-repeat
+	background:url(science_bottom.jpg) left top no-repeat
 }
 #education #main {
-	background:url(../img/education_bottom.jpg) left top no-repeat
+	background:url(education_bottom.jpg) left top no-repeat
 }
 #about-us #main {
-	background:url(../img/about_bottom.jpg) left top no-repeat
+	background:url(about_bottom.jpg) left top no-repeat
 }
 #whats-on #main {
-	background:url(../img/whatson_bottom.jpg) left top no-repeat
+	background:url(whatson_bottom.jpg) left top no-repeat
 }
 body.full-width #container #main {
 	background:0;
@@ -144,13 +144,13 @@ body.full-width #container #main {
 /*============================ MAIN NAVIGATION =========================*/
 
 #main-nav {
-	background:#F2F2F2 url(../img/nav_bg.gif) left bottom repeat-x;
+	background:#F2F2F2 url(nav_bg.gif) left bottom repeat-x;
 	overflow:hidden
 }
 #main-nav li {
 	float:left;
-	background:url(../img/nav_sep.jpg) right bottom no-repeat;
-	background:url(../img/nav_sep.jpg) right bottom no-repeat;
+	background:url(nav_sep.jpg) right bottom no-repeat;
+	background:url(nav_sep.jpg) right bottom no-repeat;
 	padding-right:1px
 }
 #main-nav a {
@@ -164,22 +164,22 @@ body.full-width #container #main {
 
 /* Section cut out images */
 #support-us #sub-nav {
-	background: url(../img/support_cutout.jpg) left bottom no-repeat
+	background: url(support_cutout.jpg) left bottom no-repeat
 }
 #science #sub-nav {
-	background: url(../img/science_cutout.jpg) left bottom no-repeat
+	background: url(science_cutout.jpg) left bottom no-repeat
 }
 #education #sub-nav {
-	background: url(../img/education_cutout.jpg) left bottom no-repeat
+	background: url(education_cutout.jpg) left bottom no-repeat
 }
 #about-us #sub-nav {
-	background: url(../img/about_cutout.jpg) left bottom no-repeat
+	background: url(about_cutout.jpg) left bottom no-repeat
 }
 #whats-on #sub-nav {
-	background: url(../img/whatson_cutout.jpg) left bottom no-repeat
+	background: url(whatson_cutout.jpg) left bottom no-repeat
 }
 #the-gardens #sub-nav, #inverleith #sub-nav {
-	background: url(../img/gardens_cutout.jpg) left bottom no-repeat
+	background: url(gardens_cutout.jpg) left bottom no-repeat
 }
 #sub-nav ul {
 	border-top:1px solid #fff
@@ -233,7 +233,7 @@ body.full-width #container #main {
 }
 /* Forms */
 fieldset {
-	background:#D4E2CA url(../img/aboutpanel_tl.gif) left top no-repeat;
+	background:#D4E2CA url(aboutpanel_tl.gif) left top no-repeat;
 	border:0;
 	width:545px;
 	padding:10px 20px 10px 20px;
@@ -345,12 +345,12 @@ p#formsubmit-p, #contact-form input.button, #mailinglist-form input.button {
 }
 /* News */
 .post-footer {
-	background:#E4E4E4 url(../img/postfooter_t.gif) left top no-repeat;
+	background:#E4E4E4 url(postfooter_t.gif) left top no-repeat;
 	padding-top:5px;
 	margin:-0.5em 0 0.5em 0
 }
 .post-footer div {
-	background:#E4E4E4 url(../img/postfooter_b.gif) left bottom no-repeat;
+	background:#E4E4E4 url(postfooter_b.gif) left bottom no-repeat;
 	padding:0 5px 5px 5px;
 	overflow:hidden
 }
@@ -389,10 +389,10 @@ table.data-table tr.odd td, table.data-table tr.odd th {
 }
 /* Home page */
 #main-panels {
-	background:url(../img/homebg.gif) left top repeat-y;
+	background:url(homebg.gif) left top repeat-y;
 }
 #inner-mainp {
-	background:url(../img/home_br.gif) left bottom no-repeat;
+	background:url(home_br.gif) left bottom no-repeat;
 }
 #upcoming-events {
 	overflow:hidden;
@@ -429,11 +429,11 @@ table.data-table tr.odd td, table.data-table tr.odd th {
 	overflow:hidden
 }
 #sub-panels {
-	background:#E4E4E4 url(../img/footer_t.gif) left top no-repeat;
+	background:#E4E4E4 url(footer_t.gif) left top no-repeat;
 	padding-top:5px;
 }
 #sub-panels div {
-	background:#E4E4E4 url(../img/footer_b.gif) left bottom no-repeat;
+	background:#E4E4E4 url(footer_b.gif) left bottom no-repeat;
 	padding:10px 18px 10px 18px;
 	overflow:hidden
 }
@@ -454,7 +454,7 @@ table.data-table tr.odd td, table.data-table tr.odd th {
 	margin-right:20px;
 	width:60px;
 	padding-left:13px;
-	background: url(../img/square-bullet.gif) left center no-repeat;
+	background: url(square-bullet.gif) left center no-repeat;
 }
 #main-content dl#event-details dd {
 	float:left;
@@ -482,22 +482,22 @@ table.data-table tr.odd td, table.data-table tr.odd th {
 }
 /* Section Side Panels */
 #support-us .cont-box {
-	background:#B1DAF6 url(../img/supportpanel_br.gif) bottom right no-repeat;
+	background:#B1DAF6 url(supportpanel_br.gif) bottom right no-repeat;
 }
 #whats-on .cont-box {
-	background:#E9B788 url(../img/whatsonpanel_br.gif) bottom right no-repeat;
+	background:#E9B788 url(whatsonpanel_br.gif) bottom right no-repeat;
 }
 #education .cont-box {
-	background:#E7BBEE url(../img/educationpanel_br.gif) bottom right no-repeat;
+	background:#E7BBEE url(educationpanel_br.gif) bottom right no-repeat;
 }
 #science .cont-box {
-	background:#EBC2BE url(../img/sciencepanel_br.gif) bottom right no-repeat;
+	background:#EBC2BE url(sciencepanel_br.gif) bottom right no-repeat;
 }
 #about-us .cont-box {
-	background:#D4E2CA url(../img/aboutpanel_br.gif) bottom right no-repeat;
+	background:#D4E2CA url(aboutpanel_br.gif) bottom right no-repeat;
 }
 #the-gardens .cont-box {
-	background:#DCE5AA url(../img/gardenspanel_br.gif) bottom right no-repeat;
+	background:#DCE5AA url(img/gardenspanel_br.gif) bottom right no-repeat;
 }
 /*============================ SECTION LANDING PAGES =========================*/
 
@@ -533,22 +533,22 @@ table.data-table tr.odd td, table.data-table tr.odd th {
 }
 /*Section Intro Panels */
 #the-gardens #intropanel {
-	background:#638C19 url(../img/gardenspanel_c.gif) left top no-repeat;
+	background:#638C19 url(gardenspanel_c.gif) left top no-repeat;
 }
 #about-us #intropanel {
-	background:#476532 url(../img/aboutpanel_c.gif) left top no-repeat;
+	background:#476532 url(aboutpanel_c.gif) left top no-repeat;
 }
 #support-us #intropanel {
-	background:#0071B8 url(../img/supportpanel_c.gif) left top no-repeat;
+	background:#0071B8 url(supportpanel_c.gif) left top no-repeat;
 }
 #whats-on #intropanel {
-	background:#D36805 url(../img/whatsonpanel_c.gif) left top no-repeat;
+	background:#D36805 url(whatsonpanel_c.gif) left top no-repeat;
 }
 #science #intropanel {
-	background:#BA2727 url(../img/sciencepanel_c.gif) left top no-repeat;
+	background:#BA2727 url(sciencepanel_c.gif) left top no-repeat;
 }
 #education #intropanel {
-	background:#9F48A3 url(../img/educationpanel_c.gif) left top no-repeat;
+	background:#9F48A3 url(educationpanel_c.gif) left top no-repeat;
 }
 /*Section Panels */
 #support-us #sectionpanel {
@@ -606,7 +606,7 @@ table.data-table tr.odd td, table.data-table tr.odd th {
 }
 #calendar td a:link, #calendar td a:visited {
 	color: #608194;
-	background: url(../img/bg_calendar.gif) no-repeat;
+	background: url(bg_calendar.gif) no-repeat;
 }
 #calendar td a:hover, #calendar td a:active {
 	color: #6aa3ae;
@@ -633,7 +633,7 @@ table.data-table tr.odd td, table.data-table tr.odd th {
 	width:180px;
 }
 #event-filter button {
-	background:transparent url(../img/search.gif) no-repeat scroll center;
+	background:transparent url(search.gif) no-repeat scroll center;
 	border:0pt none;
 	cursor:pointer;
 	font-size:10px;
@@ -644,12 +644,12 @@ table.data-table tr.odd td, table.data-table tr.odd th {
 /*============================ SITE INFO =========================*/
 
 #site-info {
-	background:#E4E4E4 url(../img/footer_t.gif) left top no-repeat;
+	background:#E4E4E4 url(footer_t.gif) left top no-repeat;
 	padding-top:5px;
 	font-size:12px;
 }
 #site-info div {
-	background:#E4E4E4 url(../img/footer_b.gif) left bottom no-repeat;
+	background:#E4E4E4 url(footer_b.gif) left bottom no-repeat;
 	padding:0 10px 5px 10px;
 	overflow:hidden
 }
@@ -668,6 +668,6 @@ table.data-table tr.odd td, table.data-table tr.odd th {
 }
 
 #site-info a[href="http://twitter.com/thebotanics"] {
-	background: url(../img/twitter-16x16.png) left no-repeat;
+	background: url(twitter-16x16.png) left no-repeat;
 	padding: 4px 4px 4px 20px;
 }
