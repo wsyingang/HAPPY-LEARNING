@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>基础地质学</title>
+		
+		<style type="text/css">
+		.center_p{
+			background: lightblue;
+			height: 2500px;
+		}	
+		*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+	margin: 0 auto;
+	padding: 0px;
+     width: 1000px;
+     height: 2030px;
+}
+.head{
+	background-image: url(img/head.jpg);
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 30px;
+	font-weight: bolder;
+	color: red;
+	width: 100%;
+	height: 4%;
+	
+}
+.banner{
+	width: 100%;
+	height: 1.1%;
+	background: yellow;		
+}
+.banner_li{
+	list-style-type: none;
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	padding: 0px;
+	height: 100%;
+	color:red;
+	text-decoration: underline;
+	background: green;
+}
+a:visited{
+     color: cornflowerblue;
+}
+
+
+}
+
+		</style>
+	</head>
+	<body>
+		<!--头部-->
+		<div class="head">
+	      
+	     <p>冰川地质学研究内容</p> 
+	    		</div>
+		<!--banner-->
+		<div class="banner">
+			<!--导航栏-->
+			<ul>
+			<li class="banner_li"><a href="f_cloud.html" >冰川地质作用</a></li>
+				<li class="banner_li"><a href="t_cloud.html">冰川的类型</a></li>
+				<li class="banner_li"><a href="r_cloud.html">研究意义及成果</a></li>
+				<li class="banner_li"><a href="p_cloud.html">冰川地质形成的地貌</a></li>
+			</ul>			
+			<!--center-->
+		</div>
+		<div class="center_p"> 
+		<ul>
+			<li style="width: 90%; float: right; color: yellow; font-size: 25px; font-family: ;">
+				<span style="display: block; color: red;font: 20px; ">冰川地质形成的地貌：</span>
+				<pre>
+ 1.古冰川的发生、发展和它消亡过程中所遗留的各类形
+ 迹特征，包括鉴别各种冰蚀地形、冰碛地形、冰缘地形、
+冰川沉积物和所有冰溜遗痕的特征，进而认识它们在空
+间上相互配置的关系和分布规律，藉以确定古冰川的性质
+和类型；著名地质学家李四光於此石上留下纪念著名地质
+学家李四光於此石上留下纪念		
+2.冰期与间冰期的划分对比。包括查明冰期、间冰期递变
+的次数，每次冰期与间冰期延续的时间及其温度升降幅度
+等，以便与其他地区的冰期、间冰期进行对比，藉以了解
+古气候变化规律对古地理带的移动、古生物群落的迁徙、
+海陆的变迁以及各种相关沉积物的分布所产生的影响 
+3.冰期的起源和对地球发展史、生物演化史，以及地球资
+源形成的作用与影响，预测气候变迁的未来趋势，达到认识
+、利用、改造自然的目的；
+4.运用古冰川活动规律解决有关生产问题。诸如勘探打钻、
+寻找地下水源、大型水库的清基、大型建筑物的奠基、追索
+砂矿及其发源地等。古冰川的消长对湖面海面升降和自然环
+境变迁的影响也是当前一项重要的研究课题。
+冰川地质学的研究主要通过古冰川遗迹野外调查，收集各项
+冰川遗迹的证据和资料，恢复古冰川面貌、确定古冰川类型，
+初步划分冰期与间冰期
+				</pre>
+			<img src="9.jpg" width="250px" style="position: absolute;top: 120px; right: 175px;">
+			</li>
+			<li style="width: 90%; float: right; color: yellow; font-size: 25px; font-family: ;">
+				<span style="display: block; color: red;font: 20px; ">冰川地质学的研究方法：</span>
+				<pre>
+为了配合古冰川遗迹调查，通常需要采集各类有机和无机物样品进行测试
+分析鉴定，从微观检验深化宏观认识，取得冰碛和其他沉积物的微结构证
+据，以及温湿度和环境变迁的数据。最后再根据野外调查和室内测试鉴定
+数据，进行综合分析研究，确定各期古冰川分布规律和冰期、间冰期年代
+序列，确立古冰川类型及其递变模式。与其他地区的冰期和间冰期对比，
+为探讨冰期起源问题积累资料。冰川地质学获取古冰川信息的主要途径如下：
+①古冰川遗迹野外调查，收集各项冰川遗迹的证据和资料,恢复古冰冰川地质 
+冰川地质川面貌、确定古冰川类型,初步划分冰期与间冰期。
+				</pre>
+				<pre>
+②配合古冰川遗迹调查，采集各类有机和无机物样品进行测
+试分析鉴定，从微观检验深化宏观认识，取得冰碛和其他沉积
+物的微结构证据，以及温湿度和环境变迁的数据。其中包括：
+采集石英颗粒样品,通过电子显微镜观察沉积物表面结构形态
+特征,确定沉积物的成因类型;采集重砂矿物样品,分析其稳定
+度与成熟度,确定沉积环境;采集粘土矿物样品,通过X光衍射、
+差热、能谱和透射电镜等测试方法，确定其形成条件；采集常规
+化学分析样品,计算SiO2/Al2O3、Fe2O3/FeO、Fe3+/Fe2+、
+氧化物比值、铁化系数、铝化系数、淋溶值、集聚值、pH和Eh值
+等系列数据，确定其地球化学环境和条件；采集古生物化石及孢子
+花粉样品，分析鉴定其生态环境和演化序列，为冰期、间冰期划分
+提供重要的辅助资料；采集古地磁和各种同位素样品，取得极性年
+表和年龄数据，以确定冰期、间冰期发生的年代等					
+				</pre>
+				<img src="10.jpg" width="200px" style="position: absolute; top: 1100px; right: 175px;" />
+			</li>
+			<li style="width: 90%; float: right; color: yellow; font-size: 25px; font-family: ;">
+				<span style="display: block; color: red;font: 20px; ">
+					研究的意义:
+				</span>
+				
+			</li>
+		</ul>
+		</div>
+		</div>
+	</body>
+</html>
