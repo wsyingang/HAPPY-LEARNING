@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>基础地质学</title>
+		
+		<style>
+			body{
+				margin: 0 auto;
+ 				padding: 0px;
+    			 width: 1000px;
+     			
+			}
+			.center_t{
+				height: 3000px;
+				background: lightblue;
+			}
+			*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+	margin: 0 auto;
+	padding: 0px;
+     width: 1000px;
+     height: 2030px;
+}
+.head{
+	background-image: url(head.jpg);
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 30px;
+	font-weight: bolder;
+	color: red;
+	width: 100%;
+	height: 4%;
+	
+}
+.banner{
+	width: 100%;
+	height: 1.1%;
+	background: yellow;		
+}
+.banner_li{
+	list-style-type: none;
+	width: 25%;
+	float: left;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	padding: 0px;
+	height: 100%;
+	color:red;
+	text-decoration: underline;
+	background: green;
+}
+a:visited{
+     color: cornflowerblue;
+}
+
+
+}
+
+		</style>
+	</head>
+	<body>
+		<!--头部-->
+		<div class="head">
+	      
+	     <p>冰川的类型</p> 
+	    		</div>
+		<!--banner-->
+		<div class="banner">
+			<!--导航栏-->
+			<ul>
+				<li class="banner_li"><a href="f_cloud.html" >冰川地质作用</a></li>
+				<li class="banner_li"><a href="t_cloud.html">冰川的类型</a></li>
+				<li class="banner_li"><a href="r_cloud.html">研究意义及成果</a></li>
+				<li class="banner_li"><a href="p_cloud.html">冰川地质形成的地貌</a></li>
+			</ul>			
+			<!--center-->
+		</div>
+		<div class="center_t"> 
+		<p style="position: relative; left: 0px;color: red; font-size:30px;font-family: bolder;">冰川的种类主要依据冰川的形态、规模和所处的地形条件分为下列两种种类型:</p>
+		<ol>
+			<li style="width: 90%; float: right; color: yellow; font-size: 25px; font-family: ;">
+				<span style=" color: red; font-size: 30px;">大陆冰川：</span>
+				<p><span style="color: red; font-size: 30px;">分布:</span>冰盖、冰盾</p>
+				<p>
+					<span  style="color: red; font-size: 30px;">特点：
+					<ol style="position: relative; left: 30px; color: yellow;">
+						<li style="list-style: circle;">面积大；可达几百万㎞2</li>
+						<li style="list-style: circle;">冰层厚；中央厚，四周变薄，轮廓呈盾形；</li>
+						<li style="list-style: circle;">运动不受地形影响，主要由冰层的自重压力使冰体从积雪区的中央部分向四周流动.</li>
+					</ol>
+				 	
+					</span>
+					<img src="4.jpg" style="position: relative; left: 100px;  width: 600px;" />
+					<p style="color: red; position: relative; left: 350px;">大陆冰川</p>
+				</p>
+				
+			</li>
+			<li  style="width: 90%; float: right; color: yellow; font-size: 25px; font-family: ;">
+				<span style=" color: red; font-size: 30px;">山岳冰川:</span>
+				<p><span  style="color: red; font-size: 30px;">分布：</span>中低纬度高山区。</p>
+				<span style="color:red; font-size: 30px;">特点:
+				<ol style="position: relative; left: 30px; color: yellow;">
+					<li style="list-style: circle;"> 规模小</li>
+					<li style="list-style: circle;"> 冰层薄</li>
+					<li style="list-style: circle;">形成和运动主要受地形影响和限制 </li>
+			</ol>
+				<p>其中山岳冰川又可以分为以下几种：</p>
+              <ol style="list-style: disc; position: absolute;left:400px;">
+              	<li><img src="5.jpg" width="600px"></li>
+              	<p style="position: relative;left: 200px; color: red; font: 20px;">冰斗冰川</p>
+              	<li><img src="6.jpg" width="600px"></li>
+              	<p style="position: relative;left: 200px; color: red; font: 20px;">悬冰川</p>
+              	<li><img src="7.jpg" width="600px"></li>
+              	<p style="position: relative; left:200px; color: red; font: 20px;">山谷冰川</p>
+              	<li><img src="8.jpg" width="600px"></li>
+              	<p style="position: relative; left:200px; color: red; font: 20px;">唐古拉山冰川</p>
+              </ol>		
+			</li>
+           <li style="float: right;position:absolute; right: 173px; top: 2980px; list-style: disc; color: red;"><a href="cloud.html">返回主页</a></li>
+		</ol>
+		
+		</div>
+		
+	</body>
+</html>
